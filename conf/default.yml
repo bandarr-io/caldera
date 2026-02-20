@@ -47,6 +47,13 @@ plugins:
 - ssl
 - stockpile
 - training
+- bacnet
+- dnp3
+- modbus
+- profinet
+- iec61850
+- gems
+- bountyhunter
 port: 8888
 reports_dir: /tmp
 auth.login.handler.module: default
